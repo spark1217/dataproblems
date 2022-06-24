@@ -8,7 +8,7 @@ Click here to view these tables in an interactive SQL fiddle.
 (https://www.db-fiddle.com/f/iD8mRBCcFrw3J8XtCNGgv3/1)
 */
 
-/* Create tables */
+/* Create tables(given tables) */
 CREATE TABLE animal_weights (
   `animal_ID` INTEGER,
   `weight_lbs` INTEGER,
