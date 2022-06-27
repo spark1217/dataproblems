@@ -8,3 +8,4 @@ Animal weights
 Predicting missed appointments  
 Categorizing foods  
 State landfills  
+Normalizing student grades against median  
