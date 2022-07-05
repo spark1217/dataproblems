@@ -9,3 +9,4 @@ Predicting missed appointments
 Categorizing foods  
 State landfills  
 Normalizing student grades against median  
+Type1 vs Type2 error
