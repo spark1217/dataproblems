@@ -11,3 +11,4 @@ State landfills
 Normalizing student grades against median  
 Type1 vs Type2 error  
 Relationship between fitness and smoking  
+Filtering student information with Pandas  
